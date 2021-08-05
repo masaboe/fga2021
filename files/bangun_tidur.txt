@@ -1,0 +1,4 @@
+Standar jam kerja karyawan per minggu adalah 40 jam. Jika karyawan tersebut bekerja lebih dari 40 jam maka dia akan dikenakan biaya lembur per jamnya. Buat program untuk menginputkan gaji pokok karyawan per bulan, dan lama kerja karyawan dalam satu bulan. Outputkan gaji total yang dia terima. Asumsi :
+
+1 bulan = 4 minggu
+Biaya lembur per jam = 2.5% dari Gaji Pokok.
